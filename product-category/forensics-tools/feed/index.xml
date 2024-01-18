@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Forensics Tools &#8211; TEch-shop</title>
+	<atom:link href="/product-category/forensics-tools/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>&#34;Empowering the Future with Technology&#34;</description>
+	<lastBuildDate>Wed, 27 Dec 2023 18:02:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/04/cropped-removebackground-32x32.png</url>
+	<title>Forensics Tools &#8211; TEch-shop</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ANDRO-CLI</title>
+		<link>/product/andro-cli/</link>
+					<comments>/product/andro-cli/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 27 Dec 2023 17:36:40 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1835</guid>
+
+					<description><![CDATA[Exploitation-Framework for Android devices &#8211; Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side. https://github.com/AryanVBW/Andro-CLI]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1835" class="elementor elementor-1835">
+				<div class="elementor-element elementor-element-5cedda39 e-flex e-con-boxed e-con e-parent" data-id="5cedda39" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-38e6f970 elementor-widget elementor-widget-text-editor" data-id="38e6f970" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 17-01-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1848" src="/wp-content/uploads/2023/12/OIG-49-300x300.jpeg" alt="" width="300" height="300" srcset="/wp-content/uploads/2023/12/OIG-49-300x300.jpeg 300w, /wp-content/uploads/2023/12/OIG-49-150x150.jpeg 150w, /wp-content/uploads/2023/12/OIG-49-768x768.jpeg 768w, /wp-content/uploads/2023/12/OIG-49-600x600.jpeg 600w, /wp-content/uploads/2023/12/OIG-49-100x100.jpeg 100w, /wp-content/uploads/2023/12/OIG-49.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" />Exploitation-Framework for Android devices &#8211; Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side.</p><p><a href="https://github.com/AryanVBW/Andro-CLI">https://github.com/AryanVBW/Andro-CLI</a></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/product/andro-cli/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LinuxDroid</title>
+		<link>/product/linuxdroid/</link>
+					<comments>/product/linuxdroid/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 02:16:50 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1796</guid>
+
+					<description><![CDATA[The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.]]></description>
+										<content:encoded><![CDATA[<p>Linuxdroid is a Linux Command Line Interface (CLI) and Graphical User Interface (GUI) for Android, offering a collection of original open-source operating systems. This platform enables users to experience a variety of Linux distributions on Android devices.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/linuxdroid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

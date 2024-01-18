@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shop &#8211; TEch-shop</title>
+	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>&#34;Empowering the Future with Technology&#34;</description>
+	<lastBuildDate>Fri, 05 Jan 2024 19:05:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/04/cropped-removebackground-32x32.png</url>
+	<title>Shop &#8211; TEch-shop</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Private-AI</title>
+		<link>/product/private-ai/</link>
+					<comments>/product/private-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 27 Dec 2023 18:19:06 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1856</guid>
+
+					<description><![CDATA[Private-AI is an innovative AI project designed for asking questions about your documents using powerful Large Language Models (LLMs). The unique feature? It works offline, ensuring 100% privacy with no data leaving your environment Visit Private-Ai/]]></description>
+										<content:encoded><![CDATA[<p style="padding-left: 40px;">Private-AI is an innovative AI project designed for asking questions about your documents using powerful Large Language Models (LLMs). The unique feature? It works offline, ensuring 100% privacy with no data leaving your environment</p>
+<ol>
+<li>Visit <a href="https://aryanvbw.github.io/Private-Ai/">Private-Ai/</a></li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/private-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ANDRO-CLI</title>
+		<link>/product/andro-cli/</link>
+					<comments>/product/andro-cli/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 27 Dec 2023 17:36:40 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1835</guid>
+
+					<description><![CDATA[Exploitation-Framework for Android devices &#8211; Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side. https://github.com/AryanVBW/Andro-CLI]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1835" class="elementor elementor-1835">
+				<div class="elementor-element elementor-element-5cedda39 e-flex e-con-boxed e-con e-parent" data-id="5cedda39" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-38e6f970 elementor-widget elementor-widget-text-editor" data-id="38e6f970" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 17-01-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1848" src="/wp-content/uploads/2023/12/OIG-49-300x300.jpeg" alt="" width="300" height="300" srcset="/wp-content/uploads/2023/12/OIG-49-300x300.jpeg 300w, /wp-content/uploads/2023/12/OIG-49-150x150.jpeg 150w, /wp-content/uploads/2023/12/OIG-49-768x768.jpeg 768w, /wp-content/uploads/2023/12/OIG-49-600x600.jpeg 600w, /wp-content/uploads/2023/12/OIG-49-100x100.jpeg 100w, /wp-content/uploads/2023/12/OIG-49.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" />Exploitation-Framework for Android devices &#8211; Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side.</p><p><a href="https://github.com/AryanVBW/Andro-CLI">https://github.com/AryanVBW/Andro-CLI</a></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/product/andro-cli/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LinuxDroid</title>
+		<link>/product/linuxdroid/</link>
+					<comments>/product/linuxdroid/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 02:16:50 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1796</guid>
+
+					<description><![CDATA[The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.]]></description>
+										<content:encoded><![CDATA[<p>Linuxdroid is a Linux Command Line Interface (CLI) and Graphical User Interface (GUI) for Android, offering a collection of original open-source operating systems. This platform enables users to experience a variety of Linux distributions on Android devices.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/linuxdroid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Instagram Reel Views {1000Views}</title>
+		<link>/product/instagram-reel-views-1000views/</link>
+					<comments>/product/instagram-reel-views-1000views/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 15:44:01 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1637</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/product/instagram-reel-views-1000views/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Regular Instagram Followers [ Indian 🇮🇳 ]</title>
+		<link>/product/regular-instagram-followers-indian-%f0%9f%87%ae%f0%9f%87%b3/</link>
+					<comments>/product/regular-instagram-followers-indian-%f0%9f%87%ae%f0%9f%87%b3/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 15:39:24 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1632</guid>
+
+					<description><![CDATA[Regular Instagram Followers [ Indian 🇮🇳 ]]]></description>
+										<content:encoded><![CDATA[<p>Regular Instagram Followers [ Indian <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1ee-1f1f3.png" alt="🇮🇳" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/regular-instagram-followers-indian-%f0%9f%87%ae%f0%9f%87%b3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Instagram Indian 🇮🇳 indian 🇮🇳 Likes {100}</title>
+		<link>/product/instagram-indian-likes/</link>
+					<comments>/product/instagram-indian-likes/#comments</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 15:21:51 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1630</guid>
+
+					<description><![CDATA[[Real] Instant ( Bollywood Choice )]]></description>
+										<content:encoded><![CDATA[<p>[Real] Instant ( Bollywood Choice )</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/instagram-indian-likes/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Instagram Likes [Female] {100}</title>
+		<link>/product/instagram-likes-female-100/</link>
+					<comments>/product/instagram-likes-female-100/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 15:18:11 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1626</guid>
+
+					<description><![CDATA[Looking to skyrocket your Instagram likes? We offer authentic, non-drop likes from real female users! Boost your engagement and make a lasting impact with our reliable service. Say goodbye to fake likes and embrace genuine interaction. Let&#8217;s take your Instagram game to the next level!]]></description>
+										<content:encoded><![CDATA[<p>Looking to skyrocket your Instagram likes? We offer authentic, non-drop likes from real female users! Boost your engagement and make a lasting impact with our reliable service. Say goodbye to fake likes and embrace genuine interaction. Let&#8217;s take your Instagram game to the next level!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/instagram-likes-female-100/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Premium Instagram Followers{500}</title>
+		<link>/product/premium-instagram-followers/</link>
+					<comments>/product/premium-instagram-followers/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 15:08:36 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1620</guid>
+
+					<description><![CDATA[<p style="text-align: center;"><strong> {Used by Bollywood ]<em> [ Lifetime ]</em></strong></p>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;"><strong> {Used by Bollywood ]<em> [ Lifetime ]</em></strong></p>]]></content:encoded>
+					
+					<wfw:commentRss>/product/premium-instagram-followers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Regular permanent instagram follower {500}</title>
+		<link>/product/5050-permanent-instagram-follower/</link>
+					<comments>/product/5050-permanent-instagram-follower/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Mon, 22 May 2023 17:29:31 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1554</guid>
+
+					<description><![CDATA[Introducing the Ultimate Social Media Follower Booster: Skyrocket your Online Presence! Are you tired of seeing your social media accounts languish in the depths of obscurity? Do you dream of having a massive following that hangs on to your every word and eagerly engages with your content? Well, your dreams are about to come true [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Introducing the Ultimate Social Media Follower Booster: Skyrocket your Online Presence!</p>
+<p>Are you tired of seeing your social media accounts languish in the depths of obscurity? Do you dream of having a massive following that hangs on to your every word and eagerly engages with your content? Well, your dreams are about to come true with our revolutionary tool!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/5050-permanent-instagram-follower/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BeEF-Cloud_setup</title>
+		<link>/product/beef-cloud_setup/</link>
+					<comments>/product/beef-cloud_setup/#comments</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2021 03:04:36 +0000</pubDate>
+				<guid isPermaLink="false">/product/ficus-decora-burgundy/</guid>
+
+					<description><![CDATA[<span class="ILfuVd" lang="en"><span class="hgKElc">Browser Exploitation Framework (BeEF) is <b>a penetration testing, or pen-testing, tool designed to provide effective client-side attack vectors and to exploit any potential vulnerabilities in the web browser</b></span></span>
+
+&#160;]]></description>
+										<content:encoded><![CDATA[<p><span class="ILfuVd" lang="en"><span class="hgKElc">Browser Exploitation Framework (BeEF) is <b>a penetration testing, or pen-testing, tool designed to provide effective client-side attack vectors and to exploit any potential vulnerabilities in the web browser</b></span></span></p>
+<p>BeEF is unique among pen-testing frameworks because it does not try to tackle the more secure network interface aspects of a system. Instead, BeEF clings on to one or more web browsers to use as a Pavillion for injecting payloads, executing exploit modules, and testing a system for vulnerabilities by sticking to browser influenced utilities.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/beef-cloud_setup/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

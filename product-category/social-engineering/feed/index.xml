@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Social Engineering &#8211; TEch-shop</title>
+	<atom:link href="/product-category/social-engineering/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>&#34;Empowering the Future with Technology&#34;</description>
+	<lastBuildDate>Wed, 27 Dec 2023 15:24:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/04/cropped-removebackground-32x32.png</url>
+	<title>Social Engineering &#8211; TEch-shop</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>LinuxDroid</title>
+		<link>/product/linuxdroid/</link>
+					<comments>/product/linuxdroid/#respond</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 02:16:50 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1796</guid>
+
+					<description><![CDATA[The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.]]></description>
+										<content:encoded><![CDATA[<p>Linuxdroid is a Linux Command Line Interface (CLI) and Graphical User Interface (GUI) for Android, offering a collection of original open-source operating systems. This platform enables users to experience a variety of Linux distributions on Android devices.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/linuxdroid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BeEF-Cloud_setup</title>
+		<link>/product/beef-cloud_setup/</link>
+					<comments>/product/beef-cloud_setup/#comments</comments>
+		
+		<dc:creator><![CDATA[vivek]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2021 03:04:36 +0000</pubDate>
+				<guid isPermaLink="false">/product/ficus-decora-burgundy/</guid>
+
+					<description><![CDATA[<span class="ILfuVd" lang="en"><span class="hgKElc">Browser Exploitation Framework (BeEF) is <b>a penetration testing, or pen-testing, tool designed to provide effective client-side attack vectors and to exploit any potential vulnerabilities in the web browser</b></span></span>
+
+&#160;]]></description>
+										<content:encoded><![CDATA[<p><span class="ILfuVd" lang="en"><span class="hgKElc">Browser Exploitation Framework (BeEF) is <b>a penetration testing, or pen-testing, tool designed to provide effective client-side attack vectors and to exploit any potential vulnerabilities in the web browser</b></span></span></p>
+<p>BeEF is unique among pen-testing frameworks because it does not try to tackle the more secure network interface aspects of a system. Instead, BeEF clings on to one or more web browsers to use as a Pavillion for injecting payloads, executing exploit modules, and testing a system for vulnerabilities by sticking to browser influenced utilities.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/beef-cloud_setup/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
